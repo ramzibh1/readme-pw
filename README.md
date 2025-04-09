@@ -16,6 +16,11 @@ SkillCraft est une plateforme web innovantif dédiée à l’apprentissage, au p
 - [Licence] (#licence)
 
 ## Installation
+## Utilisation
+## Contributions
+## Licence
+
+## Installation
 
 1. Clonez le repository :
 `bash
@@ -86,7 +91,7 @@ cd projet
 ## Licence
 
 ### Exemple pour ** Licence ** :
-`markdown
+
 ## Licence
 
 Ce projet est sous la licence ** XXX **. Pour plus de détails, consultez le fichier [LICENSE](./LICENSE).
